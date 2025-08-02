@@ -36,7 +36,7 @@ The app intelligently requests and handles **camera permissions** required for A
 
 - **Kotlin**
 - **ARCore**
-- **Sceneform (Modern Version)**
+- **Sceneform **
 - **Jetpack Libraries**
 - **GLB Model Format**
 
